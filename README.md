@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hamza BenMahmoud</h1>
+<h1 align="center">Hi 👋, I'm Hamza Ben Mahmoud</h1>
 <h3 align="center">A Software Engineering Student</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/NoswearHQ?tab=repositories](https://github.com/NoswearHQ?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/NoswearHQ?tab=repositories](Github)
 
 - 💬 Ask me about **Java & php**
 
