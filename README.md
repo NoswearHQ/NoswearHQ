@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Ben Mahmoud</h1>
-<h3 align="center">A Software Engineering Student</h3>
+<h3 align="center">A Software Engineering</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/NoswearHQ?tab=repositories)
 
